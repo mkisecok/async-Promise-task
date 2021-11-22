@@ -19,7 +19,7 @@ function spendsTimeInPage(time)
     })
 }
 
-spendsTimeInPage(3000).then((occur) =>
+spendsTimeInPage(60000).then((occur) =>
 {
     if(occur)
     {
